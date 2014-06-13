@@ -141,6 +141,10 @@ nav .global-nav__header-tuts-logo-link img {
 	margin-right: 20px;
 }
 
+span.page-footer__tuts-brand-text {
+	color: #c0ccdb;
+}
+
 button {
     text-decoration: none;
     outline: none;
